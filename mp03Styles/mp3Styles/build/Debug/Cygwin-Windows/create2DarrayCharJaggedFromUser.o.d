@@ -1,0 +1,3 @@
+build/Debug/Cygwin-Windows/create2DarrayCharJaggedFromUser.o: \
+ create2DarrayCharJaggedFromUser.cpp create2DarrayCharJaggedFromUser.h
+create2DarrayCharJaggedFromUser.h:
